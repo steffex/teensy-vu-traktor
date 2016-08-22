@@ -2,6 +2,8 @@
 
 Use a Teensy with a NeoPixel strip as a VU-meter for Native Instruments Traktor or any other MIDI compatible DJ software.
 
+An example of the result can be found here: https://youtu.be/4rS-1f5hCBE
+
 ## Requirements
 - Teensy 2.0 (and required [Teensyduino](https://www.pjrc.com/teensy/teensyduino.html) stuff)
 - [Adafruit NeoPixel Stick](https://www.adafruit.com/products/1426)
